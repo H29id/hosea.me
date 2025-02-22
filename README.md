@@ -1,2 +1,2 @@
 # hosea.me
-static page
+Just a simple static page.
