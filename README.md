@@ -1,0 +1,2 @@
+# hosea.me
+static page
